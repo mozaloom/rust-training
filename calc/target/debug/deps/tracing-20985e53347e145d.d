@@ -1,0 +1,13 @@
+/workspaces/rust-training/calc/target/debug/deps/libtracing-20985e53347e145d.rmeta: /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.41/src/lib.rs /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.41/src/macros.rs /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.41/src/dispatcher.rs /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.41/src/field.rs /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.41/src/instrument.rs /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.41/src/level_filters.rs /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.41/src/span.rs /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.41/src/stdlib.rs /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.41/src/subscriber.rs
+
+/workspaces/rust-training/calc/target/debug/deps/tracing-20985e53347e145d.d: /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.41/src/lib.rs /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.41/src/macros.rs /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.41/src/dispatcher.rs /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.41/src/field.rs /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.41/src/instrument.rs /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.41/src/level_filters.rs /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.41/src/span.rs /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.41/src/stdlib.rs /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.41/src/subscriber.rs
+
+/usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.41/src/lib.rs:
+/usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.41/src/macros.rs:
+/usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.41/src/dispatcher.rs:
+/usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.41/src/field.rs:
+/usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.41/src/instrument.rs:
+/usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.41/src/level_filters.rs:
+/usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.41/src/span.rs:
+/usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.41/src/stdlib.rs:
+/usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.41/src/subscriber.rs:
