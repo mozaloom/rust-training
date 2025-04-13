@@ -1,26 +1,38 @@
-# Rust Template
+# Rust Training
 
 A good starting point for a new Rust project.
 
 ## Usage
 
-1. Create a new Rust project:
+
+1. if it need an update 
    ```bash
-   cargo new <project_name>
+      rustup install stable
+
+      rustup default stable
+
+      rustc --version
+
+      cargo build
    ```
 
-2. Navigate to the new project directory:
+
+2. adding dependencies:
    ```bash
-   cd <project_name>
+
+      [dependencies]
+      clap = { version = "4.0", features = ["derive"] }
+
+      rustup component add clippy
+
+      cargo build
    ```
 
-3. Move the make file to the new directory.
+   
+3. Run the project
    ```bash
-   mv /path/to/Makefile .
+      cargo run -- play --name "Marco"
    ```
-
-4. Start building your Rust project!
-
 
 ## References
 
