@@ -30,7 +30,9 @@ A good starting point for a new Rust project.
 
    
 3. Run the project
-   ```bash# Rust Training
+   ```bash
+   cargo run -- play --name "Marco"
+   ```
 
 A good starting point for a new Rust project.
 
