@@ -18,4 +18,7 @@ jobs:
         run: |
           cd hello-marco
           make test
+          cd ..
+          cd calc
+          make test
   

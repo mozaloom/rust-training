@@ -18,5 +18,8 @@ jobs:
         run: |
           cd hello-marco
           make lint
+          cd ..
+          cd calc
+          make lint
 
 
