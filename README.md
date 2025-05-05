@@ -1,3 +1,8 @@
+[![Rustfmt](https://github.com/mozaloom/rust-training/actions/workflows/rustfmt.yml/badge.svg)](https://github.com/mozaloom/rust-training/actions/workflows/rustfmt.yml)
+[![Clippy](https://github.com/mozaloom/rust-training/actions/workflows/lint.yml/badge.svg)](https://github.com/mozaloom/rust-training/actions/workflows/lint.yml)
+[![Build binary release](https://github.com/mozaloom/rust-training/actions/workflows/release.yml/badge.svg)](https://github.com/mozaloom/rust-training/actions/workflows/release.yml)
+[![Tests](https://github.com/mozaloom/rust-training/actions/workflows/tests.yml/badge.svg)](https://github.com/mozaloom/rust-training/actions/workflows/tests.yml)
+
 # Rust Hello Marco
 
 A simple Rust CLI application that demonstrates how to build command-line tools with Rust.
