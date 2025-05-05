@@ -15,5 +15,7 @@ jobs:
           components: clippy, rustfmt
           override: true
       - name: Run clippy
-        run: cd hello-marco, make release
+        run: |
+          cd hello-marco
+          make release
   
