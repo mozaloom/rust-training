@@ -15,6 +15,6 @@ jobs:
           components: clippy, rustfmt
           override: true
       - name: Run clippy
-        run: make lint
+        run: cd hello-marco, make lint
   
 
