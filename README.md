@@ -1,4 +1,4 @@
-# Rust Hello Marco 
+# Rust Hello Marco
 
 A simple Rust CLI application that demonstrates how to build command-line tools with Rust.
 
@@ -58,7 +58,3 @@ rustup component add clippy
 ## License
 
 See the [LICENSE](LICENSE) file for details.
-
-## References
-
-* [rust-cli-template](https://github.com/kbknapp/rust-cli-template)
