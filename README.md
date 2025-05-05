@@ -1,28 +1,64 @@
-# Rust Template
+# Rust Hello Marco 
 
-A good starting point for a new Rust project.
+A simple Rust CLI application that demonstrates how to build command-line tools with Rust.
+
+## Project Structure
+
+```
+hello-marco/
+├── Cargo.toml       # Project configuration and dependencies
+├── Makefile         # Build automation
+├── src/
+│   ├── lib.rs       # Library code
+│   └── main.rs      # Application entry point
+```
+
+## Prerequisites
+
+- [Rust](https://www.rust-lang.org/tools/install) (stable version)
+
+## Setup
+
+1. Update your Rust installation:
+   ```bash
+   rustup install stable
+   rustup default stable
+   rustc --version
+   ```
+
+2. Build the project:
+   ```bash
+   cargo build
+   ```
 
 ## Usage
 
-1. Create a new Rust project:
-   ```bash
-   cargo new <project_name>
-   ```
+Run the application with:
+```bash
+cargo run -- play --name "Marco"
+```
 
-2. Navigate to the new project directory:
-   ```bash
-   cd <project_name>
-   ```
+## Dependencies
 
-3. Move the make file to the new directory.
-   ```bash
-   mv /path/to/Makefile .
-   ```
+This project uses [clap](https://github.com/clap-rs/clap) for command-line argument parsing.
 
-4. Start building your Rust project!
+Add dependencies to `Cargo.toml`:
+```toml
+[dependencies]
+clap = { version = "4.0", features = ["derive"] }
+```
 
+## Development
+
+Install clippy for linting:
+```bash
+rustup component add clippy
+```
+
+## License
+
+See the [LICENSE](LICENSE) file for details.
 
 ## References
 
 * [rust-cli-template](https://github.com/kbknapp/rust-cli-template)
-
